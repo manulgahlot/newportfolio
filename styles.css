@@ -1,0 +1,64 @@
+.title {
+  font-family: 'Crimson Text', serif;
+  font-size: 50px;
+}
+
+
+/* home page */
+
+#app {
+  font-size: 30px;
+}
+
+#home-page {
+  height: 100vh;
+  background-image: url(images/mac.jpg);
+  background-size: 100%;
+  background-position: center;
+}
+
+.home-txt {
+  text-align: center;
+  color: #97b4bf;
+  padding-top: 4%;
+}
+
+
+
+
+/* abt section */
+
+#abt {
+  height: 100vh;
+  background-color: #040908;
+}
+
+.abt-title {
+  padding-top: 2%;
+  text-align: center;
+  color: #97b4bf;
+}
+
+.abt-txt {
+  background-color: #c9d6df !important;
+  box-shadow: 0px 0px 10px 3px rgb(186, 191, 227);
+  height: 60vh;
+  text-align: center;
+  border-radius: 20px !important;
+  margin-top: 2.5%;
+}
+
+.abt-head {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 30px;
+}
+.abt-carousal {
+  margin-top: 5%;
+  height: 30vh;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 20px;
+}
+
+.fa:hover {
+  color: #17191c;
+}
